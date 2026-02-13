@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と僕はさ",
+  "base_artist": "鈴木鈴木",
+  "createdAt": "2026-02-13T18:44:35.108491Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と僕はさ",
+      "artist": "鈴木鈴木",
+      "has_synced": false,
+      "path": "select/pl_01_君と僕はさ_鈴木鈴木.txt"
+    }
+  ]
+}
